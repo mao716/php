@@ -1,0 +1,16 @@
+bmewburn.vscode-intelephense-client
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+htmlhint.vscode-htmlhint
+ionutvmi.path-autocomplete
+junstyle.php-cs-fixer
+mosapride.zenkaku
+ms-azuretools.vscode-containers
+ms-ceintl.vscode-language-pack-ja
+oderwat.indent-rainbow
+pranaygp.vscode-css-peek
+ritwickdey.liveserver
+shardulm94.trailing-spaces
+streetsidesoftware.code-spell-checker
+vscode-icons-team.vscode-icons
+zignd.html-css-class-completion
